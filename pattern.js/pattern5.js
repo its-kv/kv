@@ -15,7 +15,6 @@ if (i>=j){
 else{
     str+= " ";
 }
-
 }
 console.log(str);
 }
