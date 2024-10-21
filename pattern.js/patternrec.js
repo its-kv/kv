@@ -5,7 +5,7 @@ for (let i=0; i<3; i++){
         str+= " ";
         }
         else {
-            str+= "*";
+            str+= "*" ;
         }
     }console.log(str);
 }
