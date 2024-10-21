@@ -1,4 +1,4 @@
-function invertedTriangle(rows) {
+function Triangle(rows) {
     for (let i = rows; i >= 0; i--) {
         let pattern = "";
         
@@ -19,4 +19,4 @@ function invertedTriangle(rows) {
 }
 
 const rows = 5;
-invertedTriangle(rows);
+Triangle(rows);
